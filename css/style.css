@@ -1,10 +1,15 @@
 body {
     font-family: 'Montserrat', sans-serif;
-   
+    overflow-x: hidden;
+}
+html {
+    overflow-x: hidden;
 }
 
 .car1{
     width: 100%;
+    padding-left: 55px;
+
 }
 .gradient {
     background: rgb(17,28,40);
@@ -36,4 +41,8 @@ body {
 }
 h2 {
     color: #fff;
+}
+.py5 {
+    padding-top: 88px;
+    
 }
