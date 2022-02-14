@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.car1{
+    width: 100%;
+}
+.gradient {
+    background: rgb(17,28,40);
+    background: linear-gradient(90deg, rgba(17,28,40,1) 0%, rgba(22,57,52,1) 31%, rgba(30,105,72,1) 60%, rgba(32,115,76,1) 64%, rgba(37,146,89,1) 100%, rgba(40,166,97,1) 100%, rgba(46,204,113,1) 100%); 
+}
+.check-list {
+    margin: 0;
+    padding: 0;
+
+}
+.check-list li {
+    list-style-type: none;
+    background: url(../img/check.svg) no-repeat;
+    padding-left: 30px;
+    
+}
+.icon {
+    margin-bottom: 30px;
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: #fff;
+}
+.car2 {
+    width: 100%;
+}
+h2 {
+    color: #fff;
+}
